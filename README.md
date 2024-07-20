@@ -1,3 +1,15 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imnotglitch&label=Profile%20views&color=0e75b6&style=flat" alt="imnotglitch" /> </p>
+<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+  
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+LeeGod's+GitHub+Profile!;I'm+a+Software+Developer;I'm+the+Leader+of+Imanity+Software" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imnotglitch&show_icons=true&locale=en&theme=radical" alt="imnotglitch" /></p>
+
+### :clipboard: LEARNING:
+
+<code><img height="30" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></code>
+
+### 🍷 Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/1166436494446170123)](https://discord.com/users/1166436494446170123)
