@@ -7,9 +7,9 @@
 </p>
 
 
-### :clipboard: LEARNING:
+### 💻 LEARNING:
 
 <code><img height="30" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></code>
 
-### 🍷 Discord
+### ✉ Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1166436494446170123)](https://discord.com/users/1166436494446170123)
