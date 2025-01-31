@@ -3,7 +3,7 @@
 </p>
   
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Learning+Java;Learning+Cyber+Security" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Learning+Java" /></a>
 </p>
 
 
