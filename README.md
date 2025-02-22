@@ -1,10 +1,8 @@
 <h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
-  
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com/?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Learning+Java" /></a>
-</p>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ImNotGlitch&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=java&includeNames=true
 )](https://github.com/Jurredr/github-widgetbox)
