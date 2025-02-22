@@ -7,5 +7,4 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=java&includeNames=true&theme=darkmode
 )](https://github.com/Jurredr/github-widgetbox)
 
-### ✉ Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1166436494446170123)](https://discord.com/users/1166436494446170123)
