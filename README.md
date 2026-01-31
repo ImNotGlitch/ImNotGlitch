@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/ImNotGlitch/ImNotGlitch/refs/heads/main/glitch-best-quality.jpg">
 
 
 <hr>
