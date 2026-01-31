@@ -7,4 +7,4 @@
 )](https://github.com/Jurredr/github-widgetbox)
 <hr>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1166436494446170123)](https://discord.com/users/1166436494446170123)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1465379669196013698)](https://discord.com/users/1465379669196013698)
